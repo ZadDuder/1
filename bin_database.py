@@ -142,3 +142,4 @@ while True:
             print("Введено не число. Попробуйте снова!")
             continue            
         search_by_quantity_and_price(filename, target_quantity, target_price)
+# комментарий
